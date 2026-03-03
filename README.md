@@ -1,2 +1,2 @@
-# Sinter
-Sinter Eco sysyem
+# SlamRoom
+slam Corner
